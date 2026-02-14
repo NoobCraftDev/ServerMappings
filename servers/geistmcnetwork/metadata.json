@@ -1,11 +1,9 @@
 {
-    "id": "gmcnw",
+    "id": "geistmcnetwork",
     "name": "GeistMC Network",
     "description": "GeistMC is a group server focusing on PvP training and mini games.",
     "addresses": [
         "geistmc.cc",
-        "neverminds.cc",
-        "houpcuy.cc",
         "wihar.cyou"
     ],
     "primaryAddress": "geistmc.cc",
@@ -22,16 +20,16 @@
         "1.8.*",
         "1.7.10"
     ],
-    "primaryMinecraftVersion": "1.8",
-    "crossplay": true,
+    "primaryMinecraftVersion": "1.8.*",
+    "crossplay": false,
     "primaryRegion": "AS",
     "regions": [
         "AS",
         "NA"
     ],
-    "primaryLanguage": "zh-CN",
+    "primaryLanguage": "en",
     "languages": [
-        "es-EN",
+        "zh-CN",
         "en",
         "ja"
     ],
@@ -40,7 +38,6 @@
         "PvP",
         "Parkour"
     ],
-    "votingLinks": {
-        "discord": "https://minecraftservers.org/server/684020"
-    }
+    "votingLinks": "https://minecraftservers.org/server/684020"
+
 }
