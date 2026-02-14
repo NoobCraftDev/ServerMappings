@@ -38,6 +38,8 @@
         "PvP",
         "Parkour"
     ],
-    "votingLinks": "https://minecraftservers.org/server/684020"
+    "votingLinks": [
+        "https://minecraftservers.org/server/684020"
+    ]
 
 }
